@@ -1,4 +1,4 @@
 matrixview
 ==========
 
-matrixview in coffee script
+matrixview in coffee script and jquery
